@@ -1,69 +1,65 @@
-<p align="center"><a href="https://github.com/dlanx19"><img height=200px alt="Hello, I'm Ahmad Fadhlan. I Love Open Source" src="img/banner.png" /></a></p>
-
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20web%20and%20app%20developer;Newbie%20Programmers;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ABC4AA&Center=true&pause=1000&size=22" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1793D1&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontAlignY=35&fontColor=ffffff" alt="Header" />
 </p>
 
+<h1 align="center">I'm Ahmad Fadhlan</h1>
+
 <p align="center">
-  <a href="https://github.com/maungpindad?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/maungpindad?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/maungpindad?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maungpindad?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/Choexo_Dev">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://t.me/choexo_dev">
-    <img alt="Contact" title="Contact me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&width=600&lines=IT+Education+Student;RPL+Alumni+turned+Ops;I+use+Arch+BTW;Aspiring+DevOps+Engineer" alt="Typing SVG" />
 </p>
-
-<br>
-
-### 🧰 Languages and Tools
 
 ---
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://github.com/maungpindad/maungpindad/blob/main/img/github.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+### 👨‍💻 About Me
 
-<br>
-<br>
-<br>
+I am a 2nd-semester Information Technology Education student with a vocational background in Software Engineering (RPL). I have a deep passion for breaking things down, figuring out how systems work, and automating them. Currently, I'm bridging my coding background with IT infrastructure to pursue a career in **DevOps and Cloud Computing**.
 
-### 💻 My Stats
+- 🎓 Studying **IT Education** at State University of Jakarta (Expected graduation: 2029)
+- 🐧 Constantly exploring the **Linux** ecosystem and system troubleshooting (*I use Arch BTW* 🏹).
+- 🐳 Enjoying the world of Containers, currently playing around with **Podman**.
+- 🌱 Currently learning: **C, Go (Golang), Bash Scripting, and Networking**.
+- 💡 Fun fact: I prefer configuring servers over designing user interfaces! 😅
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maungpindad" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maungpindad&layout=compact&langs_count=8&card_width=300" />
-</a>
-<br>
-<br>
+### 🛠️ Tech Stack & Tools
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+*Here are the tools and technologies I am currently working with or learning:*
 
-```text
-🔥 Editors: 
-No Activity Tracked This Week
+**OS & Infrastructure**  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+**Containers & Virtualization**  
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-💻 Operating System: 
-No Activity Tracked This Week
-```
+**Coding & Scripting**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
- Last Updated on 13/06/2026 16:12:22 UTC
-<!--END_SECTION:waka-->
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maungpindad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing Linux, DevOps, or collaborating on cool infrastructure projects.
+
+<p align="left">
+  <a href="mailto:fadhlanahmad157@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/username-linkedin-kamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
